@@ -1,0 +1,85 @@
+[{
+  "id": 1,
+  "Title": "Inflatable Paddle Board",
+  "category": "Outdoor",
+  "Description": "Lightweight and portable paddle board for water sports.",
+  "price": "349.99",
+  "image": null
+}, {
+  "id": 2,
+  "Title": "Garlic Butter Sauce",
+  "category": "Food",
+  "Description": "A rich sauce perfect for pasta or drizzling over vegetables.",
+  "price": "3.59",
+  "image": null
+}, {
+  "id": 3,
+  "Title": "Safety Goggles",
+  "category": "Safety",
+  "Description": "Protective goggles for DIY and construction work.",
+  "price": "14.99",
+  "image": null
+}, {
+  "id": 4,
+  "Title": "Watering Can with Nozzle",
+  "category": "Garden",
+  "Description": "Stylish watering can for plants with easy pouring nozzle.",
+  "price": "19.99",
+  "image": null
+}, {
+  "id": 5,
+  "Title": "Outdoor Camping Lantern",
+  "category": "Outdoor",
+  "Description": "Rechargeable LED lantern ideal for camping and outdoor activities.",
+  "price": "34.99",
+  "image": null
+}, {
+  "id": 6,
+  "Title": "Foot Massager Machine",
+  "category": "Health",
+  "Description": "Electric foot massager for relaxation and relief.",
+  "price": "59.99",
+  "image": null
+}, {
+  "id": 7,
+  "Title": "Rain Jacket",
+  "category": "Clothing",
+  "Description": "Waterproof rain jacket with adjustable hood.",
+  "price": "64.99",
+  "image": null
+}, {
+  "id": 8,
+  "Title": "Smartphone Gimbal",
+  "category": "Electronics",
+  "Description": "Stabilizing gimbal for smooth video recording.",
+  "price": "89.99",
+  "image": null
+}, {
+  "id": 9,
+  "Title": "Chino Shorts",
+  "category": "Clothing",
+  "Description": "Classic chino shorts in a versatile color for summer adventures.",
+  "price": "34.99",
+  "image": null
+}, {
+  "id": 10,
+  "Title": "Plant-Based Cookbook",
+  "category": "Books",
+  "Description": "Delicious recipes focusing on plant-based ingredients.",
+  "price": "29.99",
+  "image": null
+}, {
+  "id": 11,
+  "Title": "Gardening Gloves with Claws",
+  "category": "Garden",
+  "Description": "Durable gloves with built-in claws for digging and planting.",
+  "price": "24.99",
+  "image": null
+}, {
+  "id": 12,
+  "Title": "Egg Noodles",
+  "category": "Food",
+  "Description": "Wide egg noodles, perfect for casseroles and soups.",
+  "price": "2.29",
+  "image":null
+}]

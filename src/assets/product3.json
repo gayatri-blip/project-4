@@ -1,0 +1,97 @@
+[{
+  "id": 1,
+  "title": "Travel Beach Blanket",
+  "categories": "Outdoor",
+  "description": "Sand-resistant and compact for outdoor and beach use.",
+  "price": 29.99,
+  "img": null,
+  "type": "Coat"
+}, {
+  "id": 2,
+  "title": "Ceramic Planter Set",
+  "categories": "Home",
+  "description": "Set of decorative ceramic planters for indoor plants.",
+  "price": 39.99,
+  "img": null,
+  "type": "Coat"
+}, {
+  "id": 3,
+  "title": "Wooden Toy Train Set",
+  "categories": "Toys",
+  "description": "Classic wooden train set for imaginative play.",
+  "price": 29.99,
+  "img": null,
+  "type": "Pants"
+}, {
+  "id": 4,
+  "title": "Compact Folding Table",
+  "categories": "Outdoor",
+  "description": "Versatile folding table great for events or outdoor activities.",
+  "price": 49.99,
+  "img": null,
+  "type": "Jacket"
+}, {
+  "id": 5,
+  "title": "Incense Holder",
+  "categories": "Home",
+  "description": "Ceramic incense holder for a calming atmosphere.",
+  "price": 14.99,
+  "img": null,
+  "type": "Pants"
+}, {
+  "id": 6,
+  "title": "Banana Chips",
+  "categories": "Food",
+  "description": "Crunchy and sweet banana chips, a great on-the-go snack.",
+  "price": 1.99,
+  "img": null,
+  "type": "Shorts"
+}, {
+  "id": 7,
+  "title": "Travel Orthopedic Pillow",
+  "categories": "Travel",
+  "description": "Supportive pillow that provides comfort while traveling.",
+  "price": 24.99,
+  "img": null,
+  "type": "Skirt"
+}, {
+  "id": 8,
+  "title": "Pumpkin Puree",
+  "categories": "Food",
+  "description": "Canned pumpkin puree, perfect for pies and soups.",
+  "price": 2.99,
+  "img": null,
+  "type": "Pants"
+}, {
+  "id": 9,
+  "title": "Teriyaki Sauce",
+  "categories": "Food",
+  "description": "Sweet and savory sauce for marinating and glazing meats or vegetables.",
+  "price": 2.99,
+  "img": null,
+  "type": "T-shirt"
+}, {
+  "id": 10,
+  "title": "Biodegradable Phone Case",
+  "categories": "Accessories",
+  "description": "Eco-friendly phone case designed to decompose safely.",
+  "price": 23.99,
+  "img": null,
+  "type": "Coat"
+}, {
+  "id": 11,
+  "title": "Chickpea Pasta",
+  "categories": "Food",
+  "description": "Healthy pasta alternative made from chickpeas",
+  "price": 4.19,
+  "img": null,
+  "type": "Jacket"
+}, {
+  "id": 12,
+  "title": "Dog Training Clicker",
+  "categories": "Pets",
+  "description": "Training tool for reinforcing commands and behavior in dogs.",
+  "price": 5.99,
+  "img": null,
+  "type":"Blouse"
+}]

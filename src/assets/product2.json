@@ -1,0 +1,97 @@
+[{
+  "id": 1,
+  "title": "Electric Knife",
+  "categories": "Sneakers",
+  "description": "Cordless electric knife for effortless slicing.",
+  "price": 39.99,
+  "img": null,
+  "type": "BLU"
+}, {
+  "id": 2,
+  "title": "Silicone Baking Molds",
+  "categories": "Sandals",
+  "description": "Set of flexible molds for baking cakes and pastries.",
+  "price": 15.99,
+  "img": null,
+  "type": "Vodafone"
+}, {
+  "id": 3,
+  "title": "Cat Scratching Post with Toys",
+  "categories": "Heels",
+  "description": "Multi-level scratching post to keep your cat entertained.",
+  "price": 44.99,
+  "img": null,
+  "type": "ZTE"
+}, {
+  "id": 4,
+  "title": "Tandoori Chicken Skewers",
+  "categories": "Flat",
+  "description": "Marinated chicken skewers infused with traditional tandoori spices.",
+  "price": 7.99,
+  "img": null,
+  "type": "Acer"
+}, {
+  "id": 5,
+  "title": "Classic Caesar Salad Kit",
+  "categories": "Flat",
+  "description": "Everything you need for a fresh and delicious Caesar salad.",
+  "price": 4.99,
+  "img": null,
+  "type": "Nokia"
+}, {
+  "id": 6,
+  "title": "Pumpkin Spice Creamer",
+  "categories": "Casual",
+  "description": "A seasonal creamer that adds pumpkin spice flavor to coffee or tea.",
+  "price": 3.79,
+  "img": null,
+  "type": "Nokia"
+}, {
+  "id": 7,
+  "title": "Suction Cup Hooks",
+  "categories": "Boots",
+  "description": "Reusable suction cup hooks for hanging items.",
+  "price": 9.99,
+  "img": null,
+  "type": "Pantech"
+}, {
+  "id": 8,
+  "title": "Lentil Soup",
+  "categories": "Appareal",
+  "description": "Flavorful lentil soup, perfect for a quick meal.",
+  "price": 2.49,
+  "img": null,
+  "type": "Lava"
+}, {
+  "id": 9,
+  "title": "Roasted Vegetable Medley",
+  "categories": "heels",
+  "description": "A mix of frozen roasted vegetables for an easy side dish.",
+  "price": 3.99,
+  "img": null,
+  "type": "Sagem"
+}, {
+  "id": 10,
+  "title": "Elegant Maxi Skirt",
+  "categories": "sandals",
+  "description": "Float through the day in this beautiful floor-length skirt.",
+  "price": 44.99,
+  "img": null,
+  "type": "BLU"
+}, {
+  "id": 11,
+  "title": "Stainless Steel BBQ Grill Set",
+  "categories": "Sneakers",
+  "description": "Essential tools for outdoor barbecues including tongs and spatula.",
+  "price": 49.99,
+  "img": null,
+  "type": "O2"
+}, {
+  "id": 12,
+  "title": "Coconut Curry Chicken",
+  "categories": "casual",
+  "description": "Tender chicken cooked in a rich coconut curry sauce, ready to heat and serve.",
+  "price": 9.99,
+  "img": null,
+  "type":"HTC"
+}]
